@@ -13,3 +13,4 @@ public class DemoA {
 //2 push
 // 1st git pull
 //2nd gitbash push
+// 2nd gitBash pull
