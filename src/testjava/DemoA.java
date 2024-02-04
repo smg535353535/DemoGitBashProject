@@ -5,6 +5,7 @@ public class DemoA {
 	 public static void main(String[] args) {
 		
 		 System.out.println("bye");
+		  System.out.println("your on the way");
 	}
 }
 //1st pull
